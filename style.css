@@ -1,0 +1,28 @@
+:root{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#titulo{
+    color: #fff;
+}
+ .logo{
+    width: 150px;
+ }
+#encabezado{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    }
+#contenedor_banner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(./img/banner_meca.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+  }
+#descripcion{
+    font-size: xx-large;
+    color: #fff;
+}
